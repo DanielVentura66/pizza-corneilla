@@ -1,0 +1,2 @@
+a faire les coordoonnées au propre, tableau des menu et snacks, arranger les titres et para, voir header footer avec quentin et voila
+Penser a faire un tri des données 'numéro ect) faire une option de commande en ligne, 
